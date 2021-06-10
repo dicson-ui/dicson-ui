@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dicson-ui
 - 👀 I’m interested in freelancer project.
-- 🌱 My current work is psd and xd to html conversion.
+- 🌱  My passion is to create new kinds of interactive websites. My skills range from Web App Developer, Designer and Photographer.
 - 💞️ I’m ready to start your projects.
 - 📫 You can reach me [@Dicson](http://dicson.in)
 
