@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dicson-ui
+- 👋 Hi, I’m Dicson
 - 👀 I’m interested in freelancer project.
 - 🌱  My passion is to create new kinds of interactive websites. My skills range from Web App Developer, Designer and Photographer.
 - 💞️ I’m ready to start your projects.
